@@ -32,7 +32,7 @@ This project is licensed under the MIT License.
 ## Credits
 
 - Inspired by various galaxy visualizations and animation demos found online.
-- Developed by [Your Name/Team].
+- Developed by shaik ajhaj.
 
 ---
 
