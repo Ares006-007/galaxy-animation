@@ -7,6 +7,14 @@ preview: https://ares006-007.github.io/galaxy-animation/
 - **CSS3** - Styling and layout
 - **JavaScript (ES6+)** - Animation logic and interactivity (Canvas API or WebGL)
 
+- 
+
+
+
+<img width="1720" height="790" alt="image" src="https://github.com/user-attachments/assets/14096f1b-b615-41b0-b545-ddfe5f1bc5d4" />
+<img width="1720" height="790" alt="image" src="https://github.com/user-attachments/assets/71cea457-655d-4ce4-abfd-60fe61e2cd06" />
+<img width="1720" height="790" alt="image" src="https://github.com/user-attachments/assets/09c1e52c-ba18-46fd-9462-de36f9a049b7" />
+
 ---
 
 ## Contributing
